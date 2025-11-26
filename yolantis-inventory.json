@@ -1,50 +1,50 @@
 [
   {
-    "title": "Digital Landscape #1",
-    "mediaUrl": "https://via.placeholder.com/400",
+    "title": "Dream Uruz",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2025/11/yolantis_dream-uruz-forsocials.jpg",
     "mediaType": "image",
     "blockchain": "Tezos",
     "platform": "OBJKT",
-    "status": "1:1 available",
-    "price": "25 XTZ",
-    "collection": "Landscapes Collection",
-    "mintDate": "March 2024",
-    "listingUrl": "https://objkt.com/tokens/your-token-id"
-  },
-  {
-    "title": "Abstract Motion",
-    "mediaUrl": "https://via.placeholder.com/400",
-    "mediaType": "video",
-    "blockchain": "ETH",
-    "platform": "OpenSea",
-    "status": "sold",
-    "price": null,
-    "collection": "Motion Series",
-    "mintDate": "January 2024",
-    "listingUrl": "https://opensea.io/assets/your-token-address"
-  },
-  {
-    "title": "Generative Art #42",
-    "mediaUrl": "https://via.placeholder.com/400",
-    "mediaType": "image",
-    "blockchain": "Base ETH",
-    "platform": "Zora",
     "status": "edition partially sold",
-    "price": "0.01 ETH",
-    "collection": "Generative Collection",
-    "mintDate": "February 2024",
-    "listingUrl": "https://zora.co/collect/base:your-token-id"
+    "price": "42 XTZ",
+    "collection": "Digital Visions",
+    "mintDate": "June 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1LGdYn3rNYFP5BsDfB67KHbkcgEfvuHmYK/53"
   },
   {
-    "title": "Sunset Dreams",
-    "mediaUrl": "https://via.placeholder.com/400",
+    "title": "I create to Awaken - It's a New Day",
+    "mediaUrl": "https://assets.objkt.media/file/assets-003/bafybeidburzvgrhy5huv7tikojdayjigpsseneoujaulkbetwdtpj4g7wm/artifact",
+    "mediaType": "video",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition available",
+    "price": "21 XTZ",
+    "collection": "Yolantis in the Wild",
+    "mintDate": "April 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1FCESEZL1kzaXbL9CmAEyh1WcHqrYYuLzw/25/listings"
+  },
+  {
+    "title": "Wolves - Valentine's Day 2025",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2025/11/yolantis_wolves-valentine-forsocials.jpg",
     "mediaType": "image",
     "blockchain": "Tezos",
-    "platform": "fxhash",
-    "status": "1:1 available",
-    "price": "50 XTZ",
-    "collection": "Dreams Series",
-    "mintDate": "April 2024",
-    "listingUrl": "https://www.fxhash.xyz/gentk/your-token-id"
+    "platform": "OBJKT",
+    "status": "edition partially sold",
+    "price": "3 XTZ",
+    "collection": "My One And Only",
+    "mintDate": "February 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/7"
+  },
+  {
+    "title": "Swans Togetherness AI Art Print",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2025/11/yolantis_swans-togetherness-forsocials-scaled.jpg",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition partially sold",
+    "price": "7 XTZ",
+    "collection": "My One And Only",
+    "mintDate": "January 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/6"
   }
 ]
