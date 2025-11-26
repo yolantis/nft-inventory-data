@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Digital Landscape #1",
+    "mediaUrl": "https://via.placeholder.com/400",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "1:1 available",
+    "price": "25 XTZ",
+    "collection": "Landscapes Collection",
+    "mintDate": "March 2024",
+    "listingUrl": "https://objkt.com/tokens/your-token-id"
+  },
+  {
+    "title": "Abstract Motion",
+    "mediaUrl": "https://via.placeholder.com/400",
+    "mediaType": "video",
+    "blockchain": "ETH",
+    "platform": "OpenSea",
+    "status": "sold",
+    "price": null,
+    "collection": "Motion Series",
+    "mintDate": "January 2024",
+    "listingUrl": "https://opensea.io/assets/your-token-address"
+  },
+  {
+    "title": "Generative Art #42",
+    "mediaUrl": "https://via.placeholder.com/400",
+    "mediaType": "image",
+    "blockchain": "Base ETH",
+    "platform": "Zora",
+    "status": "edition partially sold",
+    "price": "0.01 ETH",
+    "collection": "Generative Collection",
+    "mintDate": "February 2024",
+    "listingUrl": "https://zora.co/collect/base:your-token-id"
+  },
+  {
+    "title": "Sunset Dreams",
+    "mediaUrl": "https://via.placeholder.com/400",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "fxhash",
+    "status": "1:1 available",
+    "price": "50 XTZ",
+    "collection": "Dreams Series",
+    "mintDate": "April 2024",
+    "listingUrl": "https://www.fxhash.xyz/gentk/your-token-id"
+  }
+]
