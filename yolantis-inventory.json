@@ -34,7 +34,7 @@
     "status": "edition partially sold",
     "price": "3 XTZ",
     "collection": "My One And Only",
-    "mintDate": "February 2025",
+    "mintDate": "February 10, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/7",
     "buttonText": "View on OBJKT"
   },
@@ -47,8 +47,34 @@
     "status": "edition partially sold",
     "price": "7 XTZ",
     "collection": "My One And Only",
-    "mintDate": "January 2025",
+    "mintDate": "January 29, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/6",
+    "buttonText": "View on OBJKT"
+  },
+{
+    "title": "Swans Nuzzle - AI Art Print",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_swan-artprint-forsocials.jpg",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition partially sold",
+    "price": "7 XTZ",
+    "collection": "My One And Only",
+    "mintDate": "January 29, 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/5",
+    "buttonText": "View on OBJKT"
+  },
+    {
+    "title": "Wolves, Autumn Leaves AI Art Print",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_wolves-autumn-leaves-forsocials.jpg",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition partially sold",
+    "price": "7 XTZ",
+    "collection": "My One And Only",
+    "mintDate": "December 30, 2024",
+    "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/3",
     "buttonText": "View on OBJKT"
   }
 ]
