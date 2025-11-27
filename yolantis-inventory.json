@@ -1,5 +1,18 @@
 [
-      {
+       {
+    "title": "Tiles of Belonging...",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_ode-to-activists-mosaic-for-socials.jpg",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "Sold",
+    "price": "70 XTZ",
+    "collection": "Anima Mundi",
+    "mintDate": "October 4, 2025",
+    "listingUrl": "https://objkt.com/tokens/KT1GApbQXEVXFw5rL9oBUXTCy3fX5ToZYVMq/2",
+    "buttonText": "View Token"
+  },
+    {
     "title": "Vessel of Dualities",
     "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis-vessel-of-dualities-forsocials.jpg",
     "mediaType": "image",
@@ -23,7 +36,7 @@
     "collection": "The Vessel Listens",
     "mintDate": "September 20, 2025",
     "listingUrl": "https://foundation.app/mint/base/0x9e8743E28543a8abCE048E5b963b0afaDeb24142/3",
-    "buttonText": "See Video on Foundation"
+    "buttonText": "Listing Page"
   },
     {
     "title": "Dream Uruz",
@@ -34,9 +47,9 @@
     "status": "edition partially sold",
     "price": "42 XTZ",
     "collection": "Digital Visions",
-    "mintDate": "June 2025",
+    "mintDate": "June 29, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1LGdYn3rNYFP5BsDfB67KHbkcgEfvuHmYK/53",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   },
   {
     "title": "I Create to Awaken - It's a New Day",
@@ -47,7 +60,7 @@
     "status": "edition available",
     "price": "21 XTZ",
     "collection": "Yolantis in the Wild",
-    "mintDate": "April 2025",
+    "mintDate": "May 27, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1FCESEZL1kzaXbL9CmAEyh1WcHqrYYuLzw/25/listings",
     "buttonText": "See Video"
   },
@@ -62,7 +75,7 @@
     "collection": "My One And Only",
     "mintDate": "February 10, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/7",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   },
   {
     "title": "Swans Togetherness AI Art Print",
@@ -75,7 +88,7 @@
     "collection": "My One And Only",
     "mintDate": "January 29, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/6",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   },
 {
     "title": "Swans Nuzzle - AI Art Print",
@@ -88,7 +101,7 @@
     "collection": "My One And Only",
     "mintDate": "January 29, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/5",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   },  
     {
     "title": "Wolves Nuzzle - AI Art Print",
@@ -101,7 +114,7 @@
     "collection": "My One And Only",
     "mintDate": "January 29, 2025",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/4",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   },
     {
     "title": "Wolves, Autumn Leaves AI Art Print",
@@ -114,6 +127,6 @@
     "collection": "My One And Only",
     "mintDate": "December 30, 2024",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/3",
-    "buttonText": "View on OBJKT"
+    "buttonText": "OBJKT Listing Page"
   }
 ]
