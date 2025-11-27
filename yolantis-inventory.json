@@ -1,5 +1,18 @@
 [
     {
+    "title": "Temperance",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_temperance-forsocials.jpg",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Foundation",
+    "status": "1:1 available",
+    "price": ".07 ETH",
+    "collection": "Holding Place",
+    "mintDate": "October 26, 2025",
+    "listingUrl": "https://foundation.app/mint/eth/0x7dCd714fa3C2E03B447361ea6a9eC1c5f04eb0Fa/6",
+    "buttonText": "Listing Page"
+  },
+    {
     "title": "Tiles of Belonging...",
     "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_ode-to-activists-mosaic-for-socials.jpg",
     "mediaType": "image",
@@ -63,19 +76,6 @@
     "mintDate": "September 20, 2025",
     "listingUrl": "https://foundation.app/mint/base/0x9e8743E28543a8abCE048E5b963b0afaDeb24142/2",
     "buttonText": "Listing Page"
-  },
-    {
-    "title": "Tiles of Belonging...",
-    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_ode-to-activists-mosaic-for-socials.jpg",
-    "mediaType": "image",
-    "blockchain": "Tezos",
-    "platform": "OBJKT",
-    "status": "sold",
-    "price": "70 XTZ",
-    "collection": "Anima Mundi",
-    "mintDate": "October 4, 2025",
-    "listingUrl": "https://objkt.com/tokens/KT1GApbQXEVXFw5rL9oBUXTCy3fX5ToZYVMq/2",
-    "buttonText": "View Token"
   },
     {
     "title": "Vessel of Dualities",
