@@ -7,7 +7,7 @@ When you add more entries, these date formats will work:
 ✅ "2024-11-15"
 ✅ "Nov 15, 2024"
 
-status attributes: 1:1 available, edition partially sold, edition available, sold
+status attributes are case-sensitive: 1:1 available, edition partially sold, edition available, sold
 blockchain attributes: Base ETH, Tezos, ETH
 
 ! problem with the preview of videos minted on tezos. You'll have to add a screenshot to the media library instead of letting it play in WP.
