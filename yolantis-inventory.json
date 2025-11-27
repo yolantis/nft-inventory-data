@@ -1,5 +1,18 @@
 [
-   {
+      {
+    "title": "Vessel of Dualities",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis-vessel-of-dualities-forsocials.jpg",
+    "mediaType": "image",
+    "blockchain": "Base ETH",
+    "platform": "Foundation",
+    "status": "edition available",
+    "price": ".002 ETH",
+    "collection": "The Vessel Listens",
+    "mintDate": "September 20, 2025",
+    "listingUrl": "https://foundation.app/mint/base/0xB9eFBb5Cc70cD683140537c2259d0DBE6B2bCaDc",
+    "buttonText": "Listing Page"
+  },
+    {
     "title": "The Vessel Listens",
     "mediaUrl": "https://bafybeicvhjq2uck4g3bt75jwfkrevu6rszdlv4t6x4ezm6m3o5kc4gm3gm.ipfs.dweb.link/nft.mp4",
     "mediaType": "video",
@@ -10,9 +23,8 @@
     "collection": "The Vessel Listens",
     "mintDate": "September 20, 2025",
     "listingUrl": "https://foundation.app/mint/base/0x9e8743E28543a8abCE048E5b963b0afaDeb24142/3",
-    "buttonText": "See Video"
+    "buttonText": "See Video on Foundation"
   },
-    
     {
     "title": "Dream Uruz",
     "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_dream-uruz-forsocials.jpg",
