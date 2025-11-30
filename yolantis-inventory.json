@@ -1,4 +1,17 @@
 [
+       {
+    "title": "Seraphic Signal (launching Dec. 4)",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis-seraphic-signal2-forsocials.jpg",
+    "mediaType": "image",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition available",
+    "price": "21 XTZ",
+    "collection": "Listen to Your Heart",
+    "mintDate": "October 4, 2025",
+    "listingUrl": "https://objkt.com/tokens/KT19ix2i9raq1Dshmsvyzcdrua2d2Xnor5xZ/27",
+    "buttonText": "View Token"
+  }, 
     {
     "title": "Temperance",
     "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_temperance-forsocials.jpg",
@@ -245,5 +258,18 @@
     "mintDate": "December 30, 2024",
     "listingUrl": "https://objkt.com/tokens/KT1B32qMNfYpCn5rfE7Vf3N2sHwHxRXHbhaf/3",
     "buttonText": "OBJKT Listing Page"
+  },
+     {
+    "title": "Woman, Vessel",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis-woman-vessel-water-forsocials.png",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Foundation",
+    "status": "1:1 available",
+    "price": ".07 ETH",
+    "collection": "Holding Place",
+    "mintDate": "February 16, 2024",
+    "listingUrl": "https://foundation.app/mint/eth/0x7dCd714fa3C2E03B447361ea6a9eC1c5f04eb0Fa/5",
+    "buttonText": "Listing Page"
   }
 ]
