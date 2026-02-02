@@ -114,7 +114,7 @@
     "collection": "The Vessel Listens",
     "mintDate": "September 20, 2025",
     "listingUrl": "https://foundation.app/mint/base/0x9e8743E28543a8abCE048E5b963b0afaDeb24142/3",
-    "buttonText": "Listing Page"
+    "buttonText": "See Video"
   },
     {
     "title": "Dream Uruz",
@@ -184,7 +184,7 @@
   {
     "title": "I Create to Awaken - It's a New Day",
     "mediaUrl": "http://yolantisart.com/wp-content/uploads/2025/11/createto-awaken-screenshot-poster.png",
-    "mediaType": "image",
+    "mediaType": "video",
     "blockchain": "Tezos",
     "platform": "OBJKT",
     "status": "edition available",
@@ -271,5 +271,18 @@
     "mintDate": "February 16, 2024",
     "listingUrl": "https://foundation.app/mint/eth/0x7dCd714fa3C2E03B447361ea6a9eC1c5f04eb0Fa/5",
     "buttonText": "Listing Page"
+  },
+     {
+    "title": "Make Way for the Bliss",
+    "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/20240929_132439-scaled.jpg",
+    "mediaType": "video",
+    "blockchain": "Tezos",
+    "platform": "OBJKT",
+    "status": "edition available",
+    "price": "42 Tezos",
+    "collection": "Yolantis in the wild",
+    "mintDate": "September 21, 2024",
+    "listingUrl": "https://objkt.com/tokens/KT1FCESEZL1kzaXbL9CmAEyh1WcHqrYYuLzw/18",
+    "buttonText": "See Video"
   }
 ]
