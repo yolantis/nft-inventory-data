@@ -1,6 +1,6 @@
 [
         {
-    "title": "nn",
+    "title": "The Timestamp Seal",
     "mediaUrl": "http://yolantisart.com/wp-content/uploads/2026/05/yolantis_the-timestamp_seal_forsocials-scaled.jpg",
     "mediaType": "image",
     "blockchain": "ETH",
@@ -43,13 +43,13 @@
     "mediaUrl": "https://yolantisart.com/wp-content/uploads/2025/11/yolantis_temperance-forsocials.jpg",
     "mediaType": "image",
     "blockchain": "ETH",
-    "platform": "Foundation",
-    "status": "1:1 available",
-    "price": ".07 ETH",
+    "platform": "Transient Labs",
+    "status": "1:1 unlisted",
+    "price": "was .07 ETH",
     "collection": "Holding Place",
     "mintDate": "October 26, 2025",
-    "listingUrl": "https://foundation.app/mint/eth/0x7dCd714fa3C2E03B447361ea6a9eC1c5f04eb0Fa/6",
-    "buttonText": "Listing Page"
+    "listingUrl": "https://www.transient.xyz/nfts/ethereum/0x7dcd714fa3c2e03b447361ea6a9ec1c5f04eb0fa/6",
+    "buttonText": "View NFT"
   },
     {
     "title": "Tiles of Belonging...",
