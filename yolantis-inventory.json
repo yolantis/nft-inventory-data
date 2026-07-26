@@ -101,7 +101,7 @@
     "collection": "The Vessel Listens",
     "mintDate": "September 20, 2025",
     "listingUrl": "https://www.transient.xyz/nfts/base/0x9e8743e28543a8abce048e5b963b0afadeb24142",
-    "buttonText": "Unavailable"
+    "buttonText": "Detail Page"
   },
      {
     "title": "Ascendant Offering",
@@ -140,7 +140,7 @@
     "collection": "The Vessel Listens",
     "mintDate": "September 20, 2025",
     "listingUrl": "https://www.transient.xyz/nfts/base/0x9e8743e28543a8abce048e5b963b0afadeb24142",
-    "buttonText": "Unavailable"
+    "buttonText": "Detail Page"
   },
     {
     "title": "The Vessel Listens",
@@ -179,7 +179,7 @@
     "collection": "Seraphanae",
     "mintDate": "May 22, 2025",
     "listingUrl": "https://www.transient.xyz/mint/seraphane-oriel",
-    "buttonText": "Transient Detail Page"
+    "buttonText": "Detail Page"
   },
      {
     "title": "Seraphium Burden",
@@ -192,7 +192,7 @@
     "collection": "Seraphanae",
     "mintDate": "May 22, 2025",
     "listingUrl": "https://www.transient.xyz/mint/seraphium-burden",
-    "buttonText": "Transient Detail Page"
+    "buttonText": "Detail Page"
   },
          {
     "title": "Seraphane Vigil",
@@ -205,7 +205,7 @@
     "collection": "Seraphanae",
     "mintDate": "May 22, 2025",
     "listingUrl": "https://www.transient.xyz/mint/seraphane-vigil",
-    "buttonText": "Transient Detail Page"
+    "buttonText": "Detail Page"
   },
          {
     "title": "Seraphane Repose",
@@ -218,7 +218,7 @@
     "collection": "Seraphanae",
     "mintDate": "May 22, 2025",
     "listingUrl": "https://www.transient.xyz/mint/seraphane-repose",
-    "buttonText": "Transient Detail Page"
+    "buttonText": "Detail Page"
   },
   {
     "title": "I Create to Awaken - It's a New Day",
@@ -336,5 +336,57 @@
     "mintDate": "April 20, 2024",
     "listingUrl": "https://objkt.com/tokens/KT1FCESEZL1kzaXbL9CmAEyh1WcHqrYYuLzw/17",
     "buttonText": "OBJKT Detail Page"
+  },
+          {
+    "title": "Patchwork Splendor",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2023/12/yolantis_patchwork-splendor-for-twitter.jpg",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Transient Labs",
+    "status": "1:1 unlisted",
+    "price": "n/a",
+    "collection": "Holding Place",
+    "mintDate": "January 6, 2024",
+    "listingUrl": "https://www.transient.xyz/nfts/ethereum/0x7dcd714fa3c2e03b447361ea6a9ec1c5f04eb0fa/4",
+    "buttonText": "Detail Page"
+  },
+      {
+    "title": "Rememberance",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2023/11/yolantis-transient-remembrance-for-socials.jpg",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Transient Labs",
+    "status": "1:1 unlisted",
+    "price": "n/a",
+    "collection": "Holding Place",
+    "mintDate": "November 14, 2023",
+    "listingUrl": "https://www.transient.xyz/nfts/ethereum/0x7dcd714fa3c2e03b447361ea6a9ec1c5f04eb0fa/1",
+    "buttonText": "Detail Page"
+  },
+       {
+    "title": "You Know Us",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2023/11/yolantis-you-know-us-for-socials.jpg",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Transient Labs",
+    "status": "1:1 unlisted",
+    "price": "n/a",
+    "collection": "Holding Place",
+    "mintDate": "November 14, 2023",
+    "listingUrl": "https://www.transient.xyz/nfts/ethereum/0x7dcd714fa3c2e03b447361ea6a9ec1c5f04eb0fa/2",
+    "buttonText": "Detail Page"
+  }
+     {
+    "title": "Petals Conceal",
+    "mediaUrl": "http://yolantisart.com/wp-content/uploads/2023/11/yolantis_petals-conceal-downsized-for-twitter-scaled.jpg",
+    "mediaType": "image",
+    "blockchain": "ETH",
+    "platform": "Transient Labs",
+    "status": "1:1 unlisted",
+    "price": "n/a",
+    "collection": "Holding Place",
+    "mintDate": "November 14, 2023",
+    "listingUrl": "https://www.transient.xyz/nfts/ethereum/0x7dcd714fa3c2e03b447361ea6a9ec1c5f04eb0fa/3",
+    "buttonText": "Detail Page"
   }
 ]
